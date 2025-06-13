@@ -69,7 +69,7 @@
   <title>Cover Opini: Opini yang Membangun</title>
   <meta
     name="description"
-    content="Cover Opini: platform yang menghadirkan analisis mendalam dan perspektif beragam tentang isu-isu yang membentuk dunia kita." />
+    content="Cover Opini: platform yang menghadirkan analisis mendalam dan perspektif tentang isu-isu yang membentuk dunia kita." />
   <link href="{settings.origin}/" rel="canonical" />
 </svelte:head>
 
