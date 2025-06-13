@@ -94,7 +94,4 @@ module.exports = {
       `,
     };
   },
-
-  // template: 'Simple.svelte' // this is auto-detected.
-  // layout: 'Layout.svelte' // this is auto-detected.
 };

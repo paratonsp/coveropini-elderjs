@@ -51,6 +51,6 @@
   {@html templateHtml}
 </div>
 <div class="footer">
-  <p><a href="{settings.origin}/sitemap">Sitemap</a></p>
+  <p><a href="{settings.origin}/sitemap/">Sitemap</a></p>
   <p>Didukung oleh <a href="https://pesoros.com" target="_blank" rel="noopener">pesoros.com</a></p>
 </div>

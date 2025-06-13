@@ -66,8 +66,10 @@
 </style>
 
 <svelte:head>
-  <title>Cover Opini: Beranda</title>
-  <meta name="description" content="Elder.js Starter Template: It's A Tutorial Too!" />
+  <title>Cover Opini: Opini yang Membangun</title>
+  <meta
+    name="description"
+    content="Cover Opini: platform yang menghadirkan analisis mendalam dan perspektif beragam tentang isu-isu yang membentuk dunia kita." />
   <link href="{settings.origin}/" rel="canonical" />
 </svelte:head>
 
