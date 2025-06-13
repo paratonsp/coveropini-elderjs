@@ -14,6 +14,8 @@ module.exports = {
       content: `
       <h2>What is Website Sitemap?</h2>
       <p>Website Sitemap of Page, Post and Everything in this website</p>
+      <p><a href="https://coveropini.my.id/">https://coveropini.my.id/</a><p>
+      <p><a href="https://coveropini.my.id/sitemap/">https://coveropini.my.id/sitemap/</a><p>
       <p><a href="https://coveropini.my.id/acb-3-phase-1000-ampere/">https://coveropini.my.id/acb-3-phase-1000-ampere/</a><p>
       <p><a href="https://coveropini.my.id/acb-3-phase-1250-ampere/">https://coveropini.my.id/acb-3-phase-1250-ampere/</a><p>
       <p><a href="https://coveropini.my.id/acb-3-phase-1600-ampere/">https://coveropini.my.id/acb-3-phase-1600-ampere/</a><p>
@@ -89,8 +91,6 @@ module.exports = {
       <p><a href="https://coveropini.my.id/mccb-3-phase-630-ampere/">https://coveropini.my.id/mccb-3-phase-630-ampere/</a><p>
       <p><a href="https://coveropini.my.id/mccb-3-phase-80-ampere/">https://coveropini.my.id/mccb-3-phase-80-ampere/</a><p>
       <p><a href="https://coveropini.my.id/mccb-3-phase-800-ampere/">https://coveropini.my.id/mccb-3-phase-800-ampere/</a><p>
-      <p><a href="https://coveropini.my.id/">https://coveropini.my.id/</a><p>
-      <p><a href="https://coveropini.my.id/sitemap/">https://coveropini.my.id/sitemap/</a><p>
       `,
     };
   },

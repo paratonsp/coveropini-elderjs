@@ -37,7 +37,7 @@
 </style>
 
 <svelte:head>
-  <!-- You can remove this balloon it is just for hover effects -->
+  <link rel="icon" type="image/png" href="{settings.origin}/favicon.png" />
   <meta name="google-site-verification" content="nBQwj8wksdzr2V612jP-Gn6kvrSktl3YZaWogOfEOQU" />
   <script src="https://analytics.ahrefs.com/analytics.js" data-key="yGamTKV1TkwIo7N/pOBi6w" async></script>
   <script>
