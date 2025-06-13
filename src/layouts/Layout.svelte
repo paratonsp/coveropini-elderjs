@@ -39,6 +39,7 @@
 <svelte:head>
   <!-- You can remove this balloon it is just for hover effects -->
   <meta name="google-site-verification" content="nBQwj8wksdzr2V612jP-Gn6kvrSktl3YZaWogOfEOQU" />
+  <script src="https://analytics.ahrefs.com/analytics.js" data-key="yGamTKV1TkwIo7N/pOBi6w" async></script>
   <script>
     document.addEventListener('ejs', (e) => {
       console.log('Layout.svelte > Component Mount Detail', e.detail);
